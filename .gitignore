@@ -3,6 +3,12 @@ logs
 *.log
 npm-debug.log*
 
+.DS_Store
+
+# Execution folders
+screenshots/
+reports/
+
 # Runtime data
 pids
 *.pid
